@@ -1,0 +1,53 @@
+@charset "utf-8";
+/* CSS Document */
+
+form{
+	border: 1px solid black;
+	margin-right: 20px;
+	width: 450px;
+	height: 280px;
+	background-color: lightgray;
+	font-size: 18px;
+	float: left;
+	}
+
+input[type=number] {
+	background-color: beige;
+	padding: 5px 5px;
+	width: 150px;
+	text-align: center;
+	}
+
+input[type=button] {
+	background-color: #4CAF50;
+	color: white;
+	padding: 5px 15px;
+	width: 160px;
+	margin-left: 105px;
+	margin-right: 10px;
+	}
+
+h4{
+	font-family: Arial;
+	text-align: center;
+	}
+
+label{
+	margin-top: 5px;
+	margin-bottom: 5px;
+	font-size: 16px;
+	font-family: Arial;
+	widht: 100px;
+	display: inline-block;
+	}
+
+.resultado{
+	font-size: 16px;
+	font-weight: bold;
+	font-family: Arial;
+	width: 250px;
+	}
+
+img{
+	float: left;
+	}
